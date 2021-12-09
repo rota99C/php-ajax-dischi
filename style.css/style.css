@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 70px;
+  width: 100%;
+  background-color: #2e3a46;
+  padding: 15px 30px;
+}
+
+header img {
+  height: 100%;
+}
